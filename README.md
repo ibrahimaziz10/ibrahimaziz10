@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ibrahim Aziz
 - 👀 I’m interested in coding overall but I mostly like the domain of Data Sciences and AI/ML
-- 🌱 I’m currently Python Libraries
+- 🌱 I’m currently learning Python Libraries
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
