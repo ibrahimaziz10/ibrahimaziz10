@@ -2,20 +2,20 @@
 
 📍 Location: Lahore, Pakistan 🇵🇰  
 🎓 BS Computer Engineering @ ITU (Class of 2028)  
-📊 Focused on Data Analytics/Science, SQL, and Python for turning raw data into meaningful insights  
-💡 Skilled at breaking down complex problems into clear, logical steps  
-🔧 Currently learning Embedded Systems, IoT, and hardware-software integration 
-🤖 Keen interest in Artificial Intelligence and its
+📊 Focused on Learning Software Embedded Subjects
+💡 Skilled at breaking down complex problems into clear, logical simplified steps.
+🔧 Currently learning Embedded Systems and hardware-software integration : RISC - V , C++ (ROCm) , Verilog & kernel Development etc
+🤖 Keen interest in Artificial Intelligence & implementations in 
 📚 Exploring Python libraries for data visualization and analytics (Pandas, Matplotlib, Seaborn)  
-🚀 Building routines for technical workflows and experimenting with C++ on Ubuntu/WSL  
+🚀 Building routines for technical workflows and experimenting with C++ on Ubuntu/WSL & Verilog etc
 
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** SQL, Python, C++  
-- **Tools:** Ubuntu/WSL, Git, Google Sheets/Excel  
+- **Languages:** SQL, Python, C++, Verilog  
+- **Tools:** Ubuntu/WSL, Vivado ,Github, Google Sheets/Excel  
 - **Libraries (Learning):** Pandas, Matplotlib, Numpy 
-- **Hardware (Exploring):** Arduino, IoT, Embedded AI
+- **Hardware (Exploring):** RISC - V , C++ (ROCm) , Verilog & kernel Development etc
 
 ---
 
