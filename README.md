@@ -2,10 +2,10 @@
 
 📍 Location: Lahore, Pakistan 🇵🇰  
 🎓 BS Computer Engineering @ ITU (Class of 2028)  
-📊 Focused on Learning Software Embedded Subjects
-💡 Skilled at breaking down complex problems into clear, logical simplified steps.
-🔧 Currently learning Embedded Systems and hardware-software integration : RISC - V , C++ (ROCm) , Verilog & kernel Development etc
-🤖 Keen interest in Artificial Intelligence & implementations in 
+📊 Focused on Learning Computer Architectures, Digital Systems Design & Firmware Developement Subjects
+💡 Skilled at breaking down complex problems into clear self explainable, logical simplified steps excecuted proactivly (Meta Cognition).
+🔧 Currently learning Digital Systems and hardware-software integration : RISC - V , C++ (ROCm) , Verilog & kernel Development etc
+🤖 Keen interest in Edge AI, Hardware Accelerations & RTL design
 📚 Exploring Python libraries for data visualization and analytics (Pandas, Matplotlib, Seaborn)  
 🚀 Building routines for technical workflows and experimenting with C++ on Ubuntu/WSL & Verilog etc
 
@@ -14,23 +14,22 @@
 ### 🛠️ Tech Stack
 - **Languages:** SQL, Python, C++, Verilog  
 - **Tools:** Ubuntu/WSL, Vivado ,Github, Google Sheets/Excel  
-- **Libraries (Learning):** Pandas, Matplotlib, Numpy 
+- **Libraries (Worked On):** Pandas, Matplotlib, Numpy 
 - **Hardware (Exploring):** RISC - V , C++ (ROCm) , Verilog & kernel Development etc
-
+- **Data Analysis & Dashboarding** (Extra Skill)
 ---
 
 ### 📈 Current Focus
-- Publish a data visualization dashboard for business studies
-- Deep dive into Python libraries for analytics & visualization 
-- Exploring Embedded Systems & IoT fundamentals  
+- Learning Verilog & Embedded C/C++ 
+- Working on Projects and Creating a log in order to keep an history 
+- Exploring New Hardware Concepts 
 
 ---
 
 ### 🌱 Goals
-- To Build Dashboards, Studies and Document
-- Deep dive into Python libraries for analytics & visualization  
-- Begin practical projects in Embedded Systems and IoT  
-- Contribute to open-source projects in Data Analytics  
+- Understanding Computer Architectures and RISC-V and Design them.
+- Exploring The idea of accelerating hardware performance for Optimized Machine Learning (Compiler Constructions and Optimization)
+- Looking to work in the Embedded Industry.
 
 ---
 
